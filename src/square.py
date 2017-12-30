@@ -3,4 +3,4 @@ def square(x):
     ""Comment 2
     ""Comment 225
     return (x ** 2)
-print(square(6)))
+print(square(23)))
