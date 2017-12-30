@@ -3,7 +3,7 @@ def square(x):
     ""Comment 2
     ""Comment 225
     ""Comment hello
-    ""Comment
+    ""Comment 1520
     return (x ** 2)
 print(square(100)))
 print(square(23)))
